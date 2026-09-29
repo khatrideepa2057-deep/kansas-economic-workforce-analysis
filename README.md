@@ -25,6 +25,14 @@ The analysis examines county-level differences in population, household income, 
 
 ### Bureau of Labor Statistics — Local Area Unemployment Statistics (LAUS)
 
+### BLS Raw Data Note
+
+The BLS extraction script (`scripts/02_extract_bls.py`) requires the 2024 Local Area Unemployment Statistics county annual averages Excel file. Download the official BLS county annual averages file and save it as:
+
+`data/raw/laucnty24.xlsx`
+
+The repository includes the processed Kansas county-level BLS dataset in `data/processed/bls_2024_kansas_counties.csv`.
+
 2024 BLS LAUS data were used for county-level labor-market measures, including:
 
 - Labor force
