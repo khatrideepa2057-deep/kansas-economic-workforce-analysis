@@ -10,6 +10,17 @@ The analysis examines county-level differences in population, household income, 
 
 **How do economic and workforce conditions vary across Kansas counties, and which factors are associated with higher or lower unemployment rates?**
 
+## Key Results
+
+- Analyzed economic and workforce indicators across all 105 Kansas counties.
+- Labor-force participation had the strongest statistically significant relationship with county unemployment in the regression model (p = 0.002).
+- The regression model was statistically significant overall (p < 0.001), with an R² of 0.175.
+- County unemployment showed a positive correlation with poverty (+0.23) and negative correlations with median household income (-0.28) and labor-force participation (-0.35).
+- Johnson County had the highest bachelor's-or-higher educational attainment rate (57.56%) among Kansas counties in the dataset.
+- Bourbon County had the highest 2024 BLS unemployment rate in the analysis at 5.3%.
+
+
+
 ## Data Sources
 
 ### U.S. Census Bureau — American Community Survey (ACS)
