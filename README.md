@@ -127,7 +127,7 @@ Kansas Economic and Workforce Trends Analysis/
 │   ├── 08_regression_analysis.py
 │   └── 09_export_results.py
 └── sql/
-    └── 01_county_analysis.sql# Kansas Economic and Workforce Trends Analysis
+    └── 01_county_analysis.sql
 
 ## Project Overview
 
